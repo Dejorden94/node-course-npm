@@ -9,5 +9,8 @@
     "start-server": "node app.js"
   },
   "author": "Dejorden Moerman",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
